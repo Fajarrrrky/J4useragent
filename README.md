@@ -21,7 +21,7 @@ os = GenerateUseragent()
 ua = os.chromeuseragent(system=True)
 print(ua)
 
-# Menghasilkan User-Agent chrome dari sistem
+# Menghasilkan User-Agent chrome secara acak
 ua = os.chromeuseragent()
 print(ua)
 
